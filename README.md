@@ -2,7 +2,7 @@
 
 ## Overview
 
-This audit report evaluates the security and functionality of StakeSphere, a staking protocol implemented using Solidity smart contracts, paired with a user-friendly wallet extension. The audit's primary focus was to ensure that the staking protocol and wallet extension operate securely, efficiently, and transparently.
+This audit report evaluates the security and functionality of Sphere, a staking protocol implemented using Solidity smart contracts, paired with a user-friendly wallet extension. The audit's primary focus was to ensure that the staking protocol and wallet extension operate securely, efficiently, and transparently.
 
 ## Staking Protocol
 
